@@ -6,5 +6,7 @@ Setup a blog in no time with [jekyll-now](https://github.com/barryclark/jekyll-n
 
 <img width="200px" src="https://images.unsplash.com/photo-1502209524164-acea936639a2?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1950&q=80">
 
-It supports markdown - `Epic::code('all')->the($way);`
+Write posts in simple markdown!
+
+`Epic::code('all')->the($way);`
 
