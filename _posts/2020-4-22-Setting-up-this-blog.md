@@ -10,3 +10,4 @@ Write posts in simple markdown!
 
 `Epic::code('all')->the($way);`
 
+Simply go to https://github.com/barryclark/jekyll-now
